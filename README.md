@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi! 👋
 
-<!--
-**wolfadex/wolfadex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Wolfgang and I like to build things. I mostly program because it takes up so little space, but I also knit, cook and bake. I've also enjoyed doing metal and wood work, but I don't have the space for it in my apartment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently:
+- knitting a scarf
+- mentoring the Elm track on exercism.io
+- a member of the Appointments Team at Square Inc, helping you to book your appointments
+
+### Connect with me:
+<a href="https://twitter.com/wolfadex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wolfadex" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/twolfgangschuster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dillonkearns" height="30" width="40" /></a>
+<a href="wolfgangschuster.wordpress.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg" alt="wolfgangschuster.wordpress.com/" height="30" width="40" /></a>
