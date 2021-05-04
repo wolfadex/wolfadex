@@ -8,7 +8,7 @@ My name is Wolfgang and I like to build things. I mostly program because it take
 - knitting a scarf
 - mentoring the Elm track on exercism.io
 - a member of the Developer Experience team at Square Inc, helping to present documentation and build SDKs
-- writing a compiled Lambda Calculus named [Snow](https://github.com/wolfadex/snow)
+- various code experiments
 
 ### Connect with me:
 <a href="https://twitter.com/wolfadex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wolfadex" height="30" width="40" /></a>
