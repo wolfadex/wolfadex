@@ -6,8 +6,9 @@ My name is Wolfgang and I like to build things. I mostly program because it take
 
 ### I'm currently:
 - knitting a scarf
-- mentoring the Elm track on exercism.io
-- a member of the Developer Experience team at Square Inc, helping to present documentation and build SDKs
+- mentoring the Elm track on [exercism.io](exercism.io/)
+- a member of the Developer Experience team at [Square](https://squareup.com), helping to present documentation and build SDKs
+- author of [Elm Weekly](https://www.elmweekly.nl/)
 - various code experiments
 
 ### Connect with me:
