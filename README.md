@@ -1,12 +1,13 @@
 ## Hi! 👋
 
-My name is Wolfgang and I like to build things. I mostly program because it takes up so little space, but I also craft, cook, and bake. I've also enjoyed doing metal and wood work, but I don't have the space for it in my apartment.
+My name is Wolfgang and I like to build things. Currently looking for my next role, if you're hiring and I look like a good fit feel free to hit me up!
+
+I mostly program because it takes up so little space, but I also craft, cook, and bake. I've also enjoyed doing metal and wood work, but I don't have the space for it in my apartment.
 
 ---
 
 ### I'm currently:
 - building [elm-open-api](https://www.npmjs.com/package/elm-open-api), for generating Elm SDKs from OpenAPI specs
-- a member of the Intelligence team at [Vendr](https://vendr.com)
 - author of [Elm Weekly](https://www.elmweekly.nl/)
 - traveling with my wife
 - various code experiments
